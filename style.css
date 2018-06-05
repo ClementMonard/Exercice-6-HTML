@@ -1,0 +1,66 @@
+.conteneur {
+  flex-wrap: wrap;
+  display: flex;
+}
+.bleuvert {
+  background-color: #89f89a;
+  width: 80%;
+  height: 40px;
+  float: left;
+}
+
+.bleuciel {
+  background-color:#1b8dff;
+  width: 20%;
+  height: 40px;
+  float: left;
+}
+
+.rouge {
+  background-color: #ff3b3b;
+  width: 33%;
+  height: 75px;
+  float: left;
+}
+
+.orange {
+  background-color: #ffac3b;
+  width: 30%;
+  height: 75px;
+  float: left;
+}
+
+.gris {
+  background-color: #b4d2f6;
+  width: 37%;
+  height: 75px;
+  float: left;
+}
+
+.jaune {
+  background-color:  #ffc529;
+  width: 20%;
+  height: 75px;
+  float: left;
+}
+
+.turquoise {
+  background-color:  #29dfff;
+  width: 25%;
+  height: 75px;
+  float: left;
+}
+
+.marron {
+  background-color: brown;
+  width: 22%;
+  height: 75px;
+  float: left;
+}
+
+.bleumarine {
+  background-color:  #38538a;
+  width: 100%;
+  height: 150px;
+
+}
