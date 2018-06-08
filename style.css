@@ -1,6 +1,6 @@
 .conteneur {
-  flex-wrap: wrap;
   display: flex;
+  flex-wrap: wrap;
 }
 .bleuvert {
   background-color: #2ECC71;
